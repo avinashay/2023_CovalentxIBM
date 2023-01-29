@@ -1,4 +1,4 @@
-# List of Projects
+# Human Pose estimation and classification using Machine Learning
 
 ### Quantised Clusters
 
