@@ -10,8 +10,11 @@ Goal was to explore applications of Quantum Machine Learning. Explored Covalent 
 
 
 Pipeline implemented: 
+
 Dataset- Yoga poses - http://download.tensorflow.org/data/pose_classification/yoga_poses.zip
+
 Model: MoveNetfollowed by pose classification model in Tensorflow. 
+
 Input: RGB Image from webcam -> Output is Pose CLassifier.
 
 Architecture: Movenet outputs key human pose 2Dpoints which is fed to the Pose Classifier. 
