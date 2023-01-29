@@ -3,4 +3,4 @@
 ### Sample Team
 
 - [Code](TEAM_NAME)
-- [Video](!iquhack_2023.mp4)
+- [Video](iquhack_2023.mp4)
