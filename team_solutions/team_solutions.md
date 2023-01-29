@@ -1,6 +1,6 @@
 # List of Projects
 
-### Sample Team
+### Quantised Clusters
 
 - (TEAM_NAME Quantiased Clusters 23)
 - Challenge: Human Pose estimation and classification using Machine Learning. 
