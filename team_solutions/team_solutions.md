@@ -5,8 +5,7 @@
 - Challenge: Human Pose estimation and classification using Machine Learning. 
 - [Video](https://drive.google.com/file/d/11ABAN1wQbhWtDSYz0MNK5Ud2xrknbJNu/view?usp=share_link)
 
-Goal was to explore applications of Quantum Machine Learning. Explored Covalent packages with Qiskit but had issue coming up with a complete pipeline. We explore other topics in machine learning and also deployment for scalability. We wanted to implement Qiskit in the classification model. 
-
+Goal was to explore applications of Quantum Machine Learning. We wanted to implement Qiskit in the classification model and explored Covalent packages with Qiskit but had issue coming up with a complete pipeline. We explore other topics in machine learning and also deployment for scalability. 
 
 
 Pipeline implemented: 
