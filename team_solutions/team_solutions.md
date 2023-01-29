@@ -2,7 +2,6 @@
 
 ### Quantised Clusters
 
-- (TEAM_NAME Quantiased Clusters 23)
 - Challenge: Human Pose estimation and classification using Machine Learning. 
 - [Video](https://drive.google.com/file/d/11ABAN1wQbhWtDSYz0MNK5Ud2xrknbJNu/view?usp=share_link)
 
